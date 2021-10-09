@@ -1,0 +1,33 @@
+D:\Winform Project\Game Kiem Tra Mat\bin\Debug\Game Kiem Tra Mat.exe.config
+D:\Winform Project\Game Kiem Tra Mat\bin\Debug\Game Kiem Tra Mat.exe
+D:\Winform Project\Game Kiem Tra Mat\bin\Debug\Game Kiem Tra Mat.pdb
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game Kiem Tra Mat.csproj.AssemblyReference.cache
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game_Kiem_Tra_Mat.Form1.resources
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game_Kiem_Tra_Mat.Properties.Resources.resources
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game Kiem Tra Mat.csproj.GenerateResource.cache
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game Kiem Tra Mat.csproj.CoreCompileInputs.cache
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game Kiem Tra Mat.exe
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game Kiem Tra Mat.pdb
+D:\Winform Project\Game Kiem Tra Mat\obj\Debug\Game_Kiem_Tra_Mat.GameOverForm.resources
+D:\Winform Project\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe.config
+D:\Winform Project\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe
+D:\Winform Project\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.pdb
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.AssemblyReference.cache
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Form1.resources
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.GameOverForm.resources
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Properties.Resources.resources
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.GenerateResource.cache
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.CoreCompileInputs.cache
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.exe
+D:\Winform Project\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.pdb
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe.config
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.pdb
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.AssemblyReference.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Form1.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.GameOverForm.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Properties.Resources.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.GenerateResource.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.csproj.CoreCompileInputs.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.exe
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.pdb

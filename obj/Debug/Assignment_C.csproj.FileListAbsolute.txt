@@ -1,0 +1,11 @@
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe.config
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.exe
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\bin\Debug\Game Kiem Tra Mat.pdb
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Assignment_C.csproj.AssemblyReference.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Form1.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.GameOverForm.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game_Kiem_Tra_Mat.Properties.Resources.resources
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Assignment_C.csproj.GenerateResource.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Assignment_C.csproj.CoreCompileInputs.cache
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.exe
+C:\Users\thong\OneDrive\Desktop\Game Kiem Tra Mat_ver2\obj\Debug\Game Kiem Tra Mat.pdb
